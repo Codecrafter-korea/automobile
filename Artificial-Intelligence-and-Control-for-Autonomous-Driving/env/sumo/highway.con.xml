@@ -1,0 +1,49 @@
+<connections>
+    <connection from="in_N" to="inn_N" fromLane="0" toLane="0"/>
+    <connection from="in_N" to="inn_N" fromLane="1" toLane="1"/>
+    <connection from="outn_N" to="out_N" fromLane="0" toLane="0"/>
+    <connection from="outn_N" to="out_N" fromLane="1" toLane="1"/>
+    <connection from="in_N" to="slip_N" fromLane="0" toLane="0"/>
+    <connection from="slip_N" to="out_W" fromLane="0" toLane="0"/>
+    <delete from="inn_N" to="outn_W"/>
+    <connection from="in_NE" to="inn_NE" fromLane="0" toLane="0"/>
+    <connection from="in_NE" to="inn_NE" fromLane="1" toLane="1"/>
+    <connection from="outn_NE" to="out_NE" fromLane="0" toLane="0"/>
+    <connection from="outn_NE" to="out_NE" fromLane="1" toLane="1"/>
+    <connection from="in_NE" to="slip_NE" fromLane="0" toLane="0"/>
+    <connection from="slip_NE" to="out_N" fromLane="0" toLane="0"/>
+    <delete from="inn_NE" to="outn_N"/>
+    <connection from="in_E" to="inn_E" fromLane="0" toLane="0"/>
+    <connection from="in_E" to="inn_E" fromLane="1" toLane="1"/>
+    <connection from="outn_E" to="out_E" fromLane="0" toLane="0"/>
+    <connection from="outn_E" to="out_E" fromLane="1" toLane="1"/>
+    <connection from="in_E" to="slip_E" fromLane="0" toLane="0"/>
+    <connection from="slip_E" to="out_NE" fromLane="0" toLane="0"/>
+    <delete from="inn_E" to="outn_NE"/>
+    <connection from="in_S" to="inn_S" fromLane="0" toLane="0"/>
+    <connection from="in_S" to="inn_S" fromLane="1" toLane="1"/>
+    <connection from="in_S" to="inn_S" fromLane="2" toLane="2"/>
+    <connection from="outn_S" to="out_S" fromLane="0" toLane="0"/>
+    <connection from="outn_S" to="out_S" fromLane="1" toLane="1"/>
+    <connection from="outn_S" to="out_S" fromLane="2" toLane="2"/>
+    <connection from="in_S" to="slip_S" fromLane="0" toLane="0"/>
+    <connection from="slip_S" to="out_E" fromLane="0" toLane="0"/>
+    <delete from="inn_S" to="outn_E"/>
+    <connection from="in_SW" to="inn_SW" fromLane="0" toLane="0"/>
+    <connection from="in_SW" to="inn_SW" fromLane="1" toLane="1"/>
+    <connection from="outn_SW" to="out_SW" fromLane="0" toLane="0"/>
+    <connection from="outn_SW" to="out_SW" fromLane="1" toLane="1"/>
+    <connection from="in_SW" to="slip_SW" fromLane="0" toLane="0"/>
+    <connection from="slip_SW" to="out_S" fromLane="0" toLane="0"/>
+    <delete from="inn_SW" to="outn_S"/>
+    <connection from="in_W" to="inn_W" fromLane="0" toLane="0"/>
+    <connection from="in_W" to="inn_W" fromLane="1" toLane="1"/>
+    <connection from="in_W" to="inn_W" fromLane="2" toLane="2"/>
+    <connection from="in_W" to="inn_W" fromLane="3" toLane="3"/>
+    <connection from="outn_W" to="out_W" fromLane="0" toLane="0"/>
+    <connection from="outn_W" to="out_W" fromLane="1" toLane="1"/>
+    <connection from="outn_W" to="out_W" fromLane="2" toLane="2"/>
+    <connection from="in_W" to="slip_W" fromLane="0" toLane="0"/>
+    <connection from="slip_W" to="out_SW" fromLane="0" toLane="0"/>
+    <delete from="inn_W" to="outn_SW"/>
+</connections>

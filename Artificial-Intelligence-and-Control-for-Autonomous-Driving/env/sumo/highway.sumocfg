@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+        <net-file value="highway.net.xml"/>
+        <route-files value="highway.rou.xml"/>
+        <additional-files value="highway.scenery.xml,highway.poly.xml,highway.tls.xml"/>
+    </input>
+    <gui_only>
+        <gui-settings-file value="highway.gui.xml"/>
+    </gui_only>
+</configuration>

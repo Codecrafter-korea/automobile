@@ -1,0 +1,27 @@
+<nodes>
+    <node id="c" x="0" y="0" radius="25" type="traffic_light"/>
+    <node id="ain_N" x="-66.48" y="292.57"/>
+    <node id="kin_N" x="-18.66" y="67.60" type="priority"/>
+    <node id="kout_N" x="-10.45" y="69.34" type="priority"/>
+    <node id="aout_N" x="-58.27" y="294.32"/>
+    <node id="ain_NE" x="176.92" y="176.69"/>
+    <node id="kin_NE" x="47.44" y="51.65" type="priority"/>
+    <node id="kout_NE" x="53.27" y="45.60" type="priority"/>
+    <node id="aout_NE" x="182.75" y="170.64"/>
+    <node id="ain_E" x="246.93" y="-39.28"/>
+    <node id="kin_E" x="69.67" y="-8.02" type="priority"/>
+    <node id="kout_E" x="68.21" y="-16.29" type="priority"/>
+    <node id="aout_E" x="245.47" y="-47.55"/>
+    <node id="ain_S" x="117.76" y="-275.98"/>
+    <node id="kin_S" x="31.60" y="-62.73" type="priority"/>
+    <node id="kout_S" x="20.84" y="-67.08" type="priority"/>
+    <node id="aout_S" x="107.00" y="-280.33"/>
+    <node id="ain_SW" x="-237.37" y="-321.98"/>
+    <node id="kin_SW" x="-38.77" y="-58.43" type="priority"/>
+    <node id="kout_SW" x="-45.48" y="-53.38" type="priority"/>
+    <node id="aout_SW" x="-244.08" y="-316.93"/>
+    <node id="ain_W" x="-279.04" y="110.41"/>
+    <node id="kin_W" x="-67.33" y="20.54" type="priority"/>
+    <node id="kout_W" x="-62.17" y="32.69" type="priority"/>
+    <node id="aout_W" x="-273.89" y="122.56"/>
+</nodes>

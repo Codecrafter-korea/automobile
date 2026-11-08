@@ -1,0 +1,27 @@
+{
+  "data": "data\\dataset.npz",
+  "epochs": 100,
+  "batch_size": 256,
+  "lr": 0.0003,
+  "val_fraction": 0.2,
+  "seed": 0,
+  "device": "cpu",
+  "state_dim": 31,
+  "action_dim": 2,
+  "train_samples": 3787,
+  "val_samples": 1154,
+  "train_episodes": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    7,
+    8,
+    9
+  ],
+  "val_episodes": [
+    4,
+    6
+  ]
+}

@@ -1,0 +1,32 @@
+<edges>
+    <edge id="in_N" from="ain_N" to="kin_N" numLanes="2" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="inn_N" from="kin_N" to="c" numLanes="2" speed="13.89" priority="3" spreadType="center" shape="-18.66,67.60 -9.31,23.58 0.00,0.00"/>
+    <edge id="outn_N" from="c" to="kout_N" numLanes="2" speed="13.89" priority="3" spreadType="center" shape="0.00,0.00 -1.09,25.33 -10.45,69.34"/>
+    <edge id="out_N" from="kout_N" to="aout_N" numLanes="2" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="slip_N" from="kin_N" to="kout_W" numLanes="1" speed="8.33" priority="1" spreadType="center" shape="-18.66,67.60 -22.33,61.04 -26.51,55.11 -31.19,49.81 -36.37,45.13 -42.06,41.08 -48.26,37.66 -54.96,34.86 -62.17,32.69"/>
+    <edge id="in_NE" from="ain_NE" to="kin_NE" numLanes="2" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="inn_NE" from="kin_NE" to="c" numLanes="2" speed="13.89" priority="3" spreadType="center" shape="47.44,51.65 15.07,20.39 0.00,0.00"/>
+    <edge id="outn_NE" from="c" to="kout_NE" numLanes="2" speed="13.89" priority="3" spreadType="center" shape="0.00,0.00 20.90,14.35 53.27,45.60"/>
+    <edge id="out_NE" from="kout_NE" to="aout_NE" numLanes="2" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="slip_NE" from="kin_NE" to="kout_N" numLanes="1" speed="8.33" priority="1" spreadType="center" shape="47.44,51.65 39.39,51.21 31.58,51.53 24.00,52.61 16.65,54.45 9.53,57.04 2.64,60.38 -4.02,64.48 -10.45,69.34"/>
+    <edge id="in_E" from="ain_E" to="kin_E" numLanes="2" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="inn_E" from="kin_E" to="c" numLanes="2" speed="13.89" priority="3" spreadType="center" shape="69.67,-8.02 25.35,-0.21 0.00,0.00"/>
+    <edge id="outn_E" from="c" to="kout_E" numLanes="2" speed="13.89" priority="3" spreadType="center" shape="0.00,0.00 23.89,-8.48 68.21,-16.29"/>
+    <edge id="out_E" from="kout_E" to="aout_E" numLanes="2" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="slip_E" from="kin_E" to="kout_NE" numLanes="1" speed="8.33" priority="1" spreadType="center" shape="69.67,-8.02 64.93,-2.14 60.96,3.98 57.76,10.33 55.32,16.91 53.66,23.73 52.76,30.79 52.63,38.08 53.27,45.60"/>
+    <edge id="in_S" from="ain_S" to="kin_S" numLanes="3" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="inn_S" from="kin_S" to="c" numLanes="3" speed="13.89" priority="3" spreadType="center" shape="31.60,-62.73 14.74,-21.01 0.00,0.00"/>
+    <edge id="outn_S" from="c" to="kout_S" numLanes="3" speed="13.89" priority="3" spreadType="center" shape="0.00,0.00 3.99,-25.35 20.84,-67.08"/>
+    <edge id="out_S" from="kout_S" to="aout_S" numLanes="3" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="slip_S" from="kin_S" to="kout_E" numLanes="1" speed="8.33" priority="1" spreadType="center" shape="31.60,-62.73 33.99,-55.20 37.01,-48.16 40.65,-41.61 44.91,-35.56 49.80,-30.00 55.31,-24.94 61.45,-20.37 68.21,-16.29"/>
+    <edge id="in_SW" from="ain_SW" to="kin_SW" numLanes="2" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="inn_SW" from="kin_SW" to="c" numLanes="2" speed="13.89" priority="3" spreadType="center" shape="-38.77,-58.43 -11.69,-22.49 0.00,0.00"/>
+    <edge id="outn_SW" from="c" to="kout_SW" numLanes="2" speed="13.89" priority="3" spreadType="center" shape="0.00,0.00 -18.40,-17.44 -45.48,-53.38"/>
+    <edge id="out_SW" from="kout_SW" to="aout_SW" numLanes="2" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="slip_SW" from="kin_SW" to="kout_S" numLanes="1" speed="8.33" priority="1" spreadType="center" shape="-38.77,-58.43 -30.93,-56.77 -23.20,-55.89 -15.58,-55.79 -8.07,-56.48 -0.67,-57.95 6.61,-60.21 13.78,-63.25 20.84,-67.08"/>
+    <edge id="in_W" from="ain_W" to="kin_W" numLanes="4" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="inn_W" from="kin_W" to="c" numLanes="4" speed="13.89" priority="3" spreadType="center" shape="-67.33,20.54 -25.90,2.96 0.00,0.00"/>
+    <edge id="outn_W" from="c" to="kout_W" numLanes="3" speed="13.89" priority="3" spreadType="center" shape="0.00,0.00 -20.75,15.11 -62.17,32.69"/>
+    <edge id="out_W" from="kout_W" to="aout_W" numLanes="3" speed="13.89" priority="3" spreadType="center"/>
+    <edge id="slip_W" from="kin_W" to="kout_SW" numLanes="1" speed="8.33" priority="1" spreadType="center" shape="-67.33,20.54 -62.13,12.02 -57.64,3.29 -53.85,-5.64 -50.76,-14.78 -48.39,-24.12 -46.71,-33.67 -45.74,-43.42 -45.48,-53.38"/>
+</edges>

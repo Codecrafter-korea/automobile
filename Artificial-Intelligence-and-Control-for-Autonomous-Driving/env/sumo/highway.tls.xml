@@ -1,0 +1,22 @@
+<additional>
+    <tlLogic id="joinedS_12791011266_13277693701_414663644_4958136019" type="static" programID="custom" offset="0">
+        <phase duration="25" state="rrGGrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrGGGGGGGGrr"/>
+        <phase duration="3" state="rryyrrrrrrrrrrrrrrrrrrrrrrrrrrrrrryyyyyyyyrr"/>
+        <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="15" state="rrrrGGGGGGrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="3" state="rrrryyyyyyrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="15" state="rrrrrrrrrrGGGGGGrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="3" state="rrrrrrrrrryyyyyyrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="25" state="rrrrrrrrrrrrrrrrGGGGGGrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="3" state="rrrrrrrrrrrrrrrryyyyyyrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="25" state="GGrrrrrrrrrrrrrrrrrrrrGGGGGGrrrrrrrrrrrrrrrr"/>
+        <phase duration="3" state="yyrrrrrrrrrrrrrrrrrrrryyyyyyrrrrrrrrrrrrrrrr"/>
+        <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+        <phase duration="25" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrGGGGGGrrrrrrrrGG"/>
+        <phase duration="3" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrryyyyyyrrrrrrrryy"/>
+        <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+    </tlLogic>
+</additional>
